@@ -1,7 +1,6 @@
 <h1 align="center"> 🎧🧑🏻‍💻👾 Samuel Han 🎧🧑🏻‍💻👾 </h1>
 <p align="center">Software Engineer, Audio Engineer, Bad at Gaming Gamer</p>
 
-<br />
 <h2 align="center"> Hello World 👋🏼 </h2>
 <div align="center">It's nice to meet you all. My name is Sam. I'm a fairly recent coding bootcamp grad that's trying to get my foot in the door. I previously studied music recoridng/producing/editing in university but hadn't found much luck there, which lead me to doing the coding bootcamp. All of the projects you will see in my humble repository are built from the ground up, usually by myself or with members of my bootcamp cohort. I also have a number of projects that I want to bring to life, so keep an eye out for them! <br /> <br />
 
