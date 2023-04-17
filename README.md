@@ -37,7 +37,7 @@ In my free time, I'm either reading manga, playing games, or watching YouTube. I
 <br />
 
 ---
-<br />
+
 <h2 align=center> Reach Out To Me! </h2>
 <p align=center>I'd love to hear from you! Feel free to connect with me on my <a href="https://linkedin.com/in/samuel-s-han/" target="_blank">LinkedIn</a></p>
 
