@@ -37,8 +37,8 @@ In my free time, I'm either reading manga, playing games, or watching YouTube. I
 <img align="left" alt="Kotlin" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" />
 <br />
 <br />
-#
 
+---
 <h2 align=center> Reach Out To Me! </h2>
 <p align=center>I'd love to hear from you! Feel free to connect with me on my <a href="https://linkedin.com/in/samuel-s-han/" target="_blank">LinkedIn</a></p>
 
