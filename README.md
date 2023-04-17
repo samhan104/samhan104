@@ -25,7 +25,7 @@ In my free time, I'm either reading manga, playing games, or watching YouTube. I
 #
 ## Tools I am/will be learning
 <img align="left" alt="PosgreSQL" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img align="left" alt="PosgreSQL" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
+<img align="left" alt="PosgreSQL" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
 
 
