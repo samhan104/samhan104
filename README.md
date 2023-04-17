@@ -37,7 +37,7 @@ In my free time, I'm either reading manga, playing games, or watching YouTube. I
 
 #
 ## Reach Out To Me!
-I'd love to hear from you! Feel free to connect with me on my "[LinkedIn](linkedin.com/in/samuel-s-han/)"
+I'd love to hear from you! Feel free to connect with me on my [LinkedIn](linkedin.com/in/samuel-s-han/)
 
 
 <!--
