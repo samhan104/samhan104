@@ -1,5 +1,5 @@
-# 🎧🧑🏻‍💻👾 Samuel Han 🎧🧑🏻‍💻👾
-### `Software Engineer, Audio Engineer, Bad at Gaming Gamer`
+<h1 align="center"> 🎧🧑🏻‍💻👾 Samuel Han 🎧🧑🏻‍💻👾 </h1>
+<h3 align="center"> `Software Engineer, Audio Engineer, Bad at Gaming Gamer` </h3>
 
 
 ## Hello World 👋🏼
