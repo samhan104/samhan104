@@ -38,6 +38,6 @@ In my free time, I'm either reading manga, playing games, or watching YouTube. I
 #
 
 <h2 align=center> Reach Out To Me! </h2>
-<p align=center>I'd love to hear from you! Feel free to connect with me on my [LinkedIn](linkedin.com/in/samuel-s-han/)</p>
+<p align=center>I'd love to hear from you! Feel free to connect with me on my <a href="linkedin.com/in/samuel-s-han/">LinkedIn</a></p>
 
 
