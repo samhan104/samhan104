@@ -9,7 +9,7 @@ In my free time, I'm either reading manga, playing games, or watching YouTube. I
 
 ---
 
-<h2 align="center">Tools I have used</h2>
+<h2 align="left">Tools I have used</h2>
 
 <img align="center" alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
 <img align="center" alt="HTML5" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
