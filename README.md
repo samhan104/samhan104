@@ -1,5 +1,5 @@
 <h1 align="center"> 🎧🧑🏻‍💻👾 Samuel Han 🎧🧑🏻‍💻👾 </h1>
-<h3 align="center"><code>Software Engineer, Audio Engineer, Bad at Gaming Gamer</code></h3>
+<code><h3 align="center">Software Engineer, Audio Engineer, Bad at Gaming Gamer</h3></code>
 
 
 ## Hello World 👋🏼
