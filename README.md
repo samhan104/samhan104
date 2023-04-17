@@ -6,10 +6,8 @@
 <div align="center">It's nice to meet you all. My name is Sam. I'm a fairly recent coding bootcamp grad that's trying to get my foot in the door. I previously studied music recoridng/producing/editing in university but hadn't found much luck there, which lead me to doing the coding bootcamp. All of the projects you will see in my humble repository are built from the ground up, usually by myself or with members of my bootcamp cohort. I also have a number of projects that I want to bring to life, so keep an eye out for them! <br /> <br />
 
 In my free time, I'm either reading manga, playing games, or watching YouTube. I'm a casual fan of most major sports, and a big fan of esports, especially the LCK. </div>
-<br />
 
 ---
-
 <h2 align="left">Tools I have used</h2>
 <img align="left" alt="Git" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/>
 <img align="left" alt="HTML5" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
